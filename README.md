@@ -13,49 +13,6 @@ Prerequisites:
 * Go 19+
 * The Temporal CLI application
 
-
-## Setup
-
-Clone the repository.
-
-Install the Temporal CLI * Go * The Temporal CLI applicat
-
-## Setup
-
-Clone the repository.
-
-Install the Temporal CLI * Go * The Temporal CLI applicat
-
-## Setup
-
-Clone the repository.
-
-Install the Temporal CLI * Go * The Temporal CLI applicat
-
-## Setup
-
-Clone the repository.
-
-Install the Temporal CLI * Go * The Temporal CLI applicat
-
-## Setup
-
-Clone the repository.
-
-Install the Temporal CLI * Go * The Temporal CLI applicat
-
-## Setup
-
-Clone the repository.
-
-Install the Temporal CLI * Go * The Temporal CLI applicat
-
-## Setup
-
-Clone the repository.
-
-Install the Temporal CLI * Go * The Temporal CLI applicat
-
 ## Setup
 
 Clone the repository.
