@@ -10,6 +10,7 @@ The Workflow calls back to the Rails application's REST API to fetch the emails 
 Prerequisites:
 
 * Ruby 3.1.4 (Ruby 3.2 is not supported yet.)
+* SQLite
 * Go 19+
 * The Temporal CLI application
 
@@ -33,6 +34,12 @@ Install the Rails app's dependencies:
 
 ```bash
 bundle install
+```
+
+Set up the database:
+
+```bash
+rails db:migrate
 ```
 
 Start the Rails app:
